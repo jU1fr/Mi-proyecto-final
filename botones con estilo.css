@@ -1,0 +1,36 @@
+.caja1{
+    border: red solid 2px;
+    width: 100px;
+    margin: 30px;
+}
+
+.caja1.azul{
+    border: black 2px solid;
+    background-color: rgb(14, 14, 236);
+    color: white;
+}
+
+
+.cuadro2{
+    border: yellow solid 2px;
+    width: 100px;
+    margin: 30px;
+}
+
+.cuadro2.verde{
+    border: black 2px solid;
+    background-color: green;
+    color: white;
+}
+
+.pieza3{
+    border: orange solid 2px;
+    width: 100px;
+    margin: 30px;
+}
+
+.pieza3.naranja{
+    border: black 2px solid;
+    background-color: orange;
+    color: white;
+}

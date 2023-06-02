@@ -1,0 +1,50 @@
+.contenedor{
+max-width: 50%;
+margin: 0 auto;
+
+}
+
+h2{
+    color: brown;
+}
+
+li{
+    color: blue;
+}
+.borde{
+    border-bottom: solid 3px;
+    color: aqua;
+}
+
+.contenedor{
+max-width: 50%;
+margin: 0 auto;
+
+}
+
+p{
+    color: coral;
+}
+
+body{
+    background-image: linear-gradient(#00000001, #00000063), url(logo\ iot.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.Imagenespelis{
+    display: flex;
+    gap: 60px;
+}
+
+img{
+    width: 250px;
+}
+
+.ImagenespelisNombre{
+    display: flex;
+    gap: 300px;
+    text-align: center;
+}
